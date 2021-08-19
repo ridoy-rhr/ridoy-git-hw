@@ -1,0 +1,3 @@
+char* ridoy(){
+ return "ridoy";
+}
